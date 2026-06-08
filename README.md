@@ -5,6 +5,7 @@ Hi, I'm Dhruv 👋
 ☁️ AWS • Kubernetes • Terraform • GitHub Actions • ArgoCD • Python • Go
 
 🔹 Passionate about Platform Engineering, SRE, GitOps, and DevSecOps
+
 🔹 M.S. Computer Science @ Cleveland State University
 
 Connect with me here:

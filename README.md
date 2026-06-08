@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Dhruv 👋
 
-<!--
-**DhruvSagar18/DhruvSagar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer with 3+ years of experience building cloud-native platforms and automating infrastructure.
 
-Here are some ideas to get you started:
+☁️ AWS • Kubernetes • Terraform • GitHub Actions • ArgoCD • Python • Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Passionate about Platform Engineering, SRE, GitOps, and DevSecOps
+🔹 M.S. Computer Science @ Cleveland State University
+
+Connect with me here
+
+💼 LinkedIn: linkedin.com/in/dhruvsagar18
+📧 dhruvsagar100@gmail.com

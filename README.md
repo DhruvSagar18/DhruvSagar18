@@ -8,5 +8,7 @@ Hi, I'm Dhruv 👋
 🔹 M.S. Computer Science @ Cleveland State University
 
 Connect with me here:
+
 💼 LinkedIn: linkedin.com/in/dhruvsagar18
+
 📧 dhruvsagar100@gmail.com
